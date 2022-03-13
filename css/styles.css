@@ -3,7 +3,7 @@ body {
   text-align: center;
   background-color: #e4f9f5;
   font-family: "Merriweather", serif;
-  color:#40514E;
+  color: #40514e;
 }
 h1 {
   font-family: "Sacramento", cursive;
@@ -21,9 +21,9 @@ h3 {
   font-family: "Montserrat", sans-serif;
   color: #11999e;
 }
-.intro{
-  width:30%;
-  margin:0 auto 0 auto;
+.intro {
+  width: 30%;
+  margin: 0 auto 0 auto;
 }
 
 .top-container {
@@ -50,29 +50,28 @@ a:hover {
 .profileSize {
   height: 150px;
   width: 150px;
-  
 }
 .skillImg {
   width: 30%;
   float: left;
   margin-right: 30px;
-  line-height:4;
+  line-height: 4;
 }
 .cpz {
   width: 30%;
   float: right;
   margin-left: 30px;
 }
-.cp-img{
-  width:30%;
-  display:inline-block;
-  position:absolute;
-  right:0;
+.cp-img {
+  width: 30%;
+  display: inline-block;
+  position: absolute;
+  right: 0;
   margin-left: 30px;
 }
 .pro {
   text-decoration: underline;
-  font-weight:bold;
+  font-weight: bold;
 }
 .top-cloud {
   position: absolute;
@@ -86,24 +85,24 @@ a:hover {
 }
 .copyright {
   color: #eaf6f6;
-  font-size: 0.80rem;
+  font-size: 0.8rem;
   padding: 20px 0;
 }
 .btn {
   color: #11999e;
 }
-p{
-  line-height:2;
+p {
+  line-height: 2;
 }
 .skill-row {
   width: 50%;
   text-align: left;
   margin: 100px auto 100px auto;
 }
-.cps{
-  width:50%;
+.cps {
+  width: 50%;
   text-align: left;
-  display:inline-block;
+  display: inline-block;
 }
 .btn {
   background: #11cdd4;
@@ -138,5 +137,4 @@ hr {
   border-bottom: none;
   margin: 100px auto 100px auto;
   width: 4%;
-  
 }
