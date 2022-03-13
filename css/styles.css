@@ -101,10 +101,9 @@ p{
   margin: 100px auto 100px auto;
 }
 .cps{
-  text-align:left;
-  display:inline-block;
   width:50%;
-  
+  text-align: left;
+  display:inline-block;
 }
 .btn {
   background: #11cdd4;
@@ -135,8 +134,9 @@ p{
 }
 
 hr {
-  border: dotted #eaf6f6 6px;
+  border: dotted grey 6px;
   border-bottom: none;
   margin: 100px auto 100px auto;
   width: 4%;
+  
 }
